@@ -1,4 +1,3 @@
-## Hi there 👋  
 I'm **Javier Medel, MSc** — AI Engineer | Machine Learning Engineer | Generative AI Specialist  
 📍 Toronto, ON • ✉️ msc.javier.medel@gmail.com • ☎️ (942) 380-5021  
 🔗 [linkedin.com/in/javier-medel](https://www.linkedin.com/in/javier-medel/)
