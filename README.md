@@ -1,5 +1,5 @@
-I'm **Javier** and AI Engineer | Machine Learning Engineer | Generative AI Specialist  
-Based in 📍 Toronto, ON  
+## I'm **Javier** 
+AI Engineer | Machine Learning Engineer | Generative AI Specialist Based in 📍 Toronto, ON  
 🔗 [linkedin.com/in/javier-medel](https://www.linkedin.com/in/javier-medel/)
 
 ---
